@@ -1,5 +1,5 @@
 # TODO
-Put in a readme about the actual robot
+Delete this README and put in information about the actual robot according to LTPM
 
 # 3100 Template Repository
 Differs to WPILib generated template:
